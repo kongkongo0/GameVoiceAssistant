@@ -1,7 +1,5 @@
-# GameVoiceAssistant
+# GameVoiceAssistant · 游戏语音助手
 voice assistant for text-based games | 纯字幕游戏秒变全语音，适配AVG/视觉小说的语音匹配工具
-
-# 🎙️ GameVoiceAssistant · 游戏语音助手
 
 [![平台](https://img.shields.io/badge/平台-Windows-blue)]()
 [![状态](https://img.shields.io/badge/状态-开发中-green)]()
@@ -34,9 +32,9 @@ voice assistant for text-based games | 纯字幕游戏秒变全语音，适配AV
 
 ## 🎯 效果演示
 
-> 搭配《永恒世界》(Eternum) 试玩效果
+> GameVoiceAssistant × 永恒世界 试玩效果展示
 
-[👉 点击观看演示视频](你的视频链接)
+[👉 点击观看演示视频]([你的视频链接](https://www.bilibili.com/video/BV1re9uBbEKP))
 
 ---
 
@@ -44,7 +42,7 @@ voice assistant for text-based games | 纯字幕游戏秒变全语音，适配AV
 
 > ⏳ 软件正在最后打磨中，**近期开放下载**
 
-- 支持平台：Windows
+- 支持平台：Windows11
 - 获取方式：关注本仓库 [Releases](你的仓库链接/releases) 页面
 
 ---
@@ -66,7 +64,7 @@ voice assistant for text-based games | 纯字幕游戏秒变全语音，适配AV
 ## ❓ 常见问题
 
 **Q：为什么不直接适配《永恒世界》，而是做通用工具？**  
-A：因为我想让**所有**文字游戏都能拥有语音，而不是只解决一款游戏。
+A：因为我想让**所有**文字游戏都能拥有语音的可能，只要有音频资源就可以适配，而不是只解决一款游戏。
 
 **Q：支持Mac/Linux吗？**  
 A：目前优先支持Windows，软件通过跨平台技术开发本身支持mac系统，后续看用户需求决定。
