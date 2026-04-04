@@ -3,13 +3,13 @@ voice assistant for text-based games | 纯字幕游戏秒变全语音，适配AV
 
 [![平台](https://img.shields.io/badge/平台-Windows-blue)]()
 [![状态](https://img.shields.io/badge/状态-开发中-green)]()
-[![交流](https://img.shields.io/badge/交流-B站-orange)]([视频效果预览](https://space.bilibili.com/59669592))
+[![交流](https://img.shields.io/badge/交流-B站-orange)]([B站地址](https://space.bilibili.com/59669592))
 
 > **让任何纯字幕文字游戏自动开口说话 —— 为AVG、视觉小说、互动故事匹配语音**
 
 ---
 
-## 📌 简介
+## 简介
 
 玩文字游戏时，满屏字幕却没有语音，沉浸感大打折扣。
 
@@ -19,7 +19,7 @@ voice assistant for text-based games | 纯字幕游戏秒变全语音，适配AV
 
 ---
 
-## ✨ 核心功能
+## 核心功能
 
 | 功能 | 说明 |
 | :--- | :--- |
@@ -30,38 +30,33 @@ voice assistant for text-based games | 纯字幕游戏秒变全语音，适配AV
 
 ---
 
-## 🎯 效果演示
+## 效果演示
 
 > GameVoiceAssistant × 永恒世界 试玩效果展示
 
-[👉 点击观看演示视频]([你的视频链接](https://www.bilibili.com/video/BV1re9uBbEKP))
+[点击观看演示视频](https://www.bilibili.com/video/BV1re9uBbEKP)
 
 ---
 
-## 📦 下载与使用
+## 下载与使用
 
 > ⏳ 软件正在最后打磨中，**近期开放下载**
 
 - 支持平台：Windows11
-- 获取方式：关注本仓库 [Releases](你的仓库链接/releases) 页面
+- 获取方式：关注本仓库 [Releases](https://github.com/kongkongo0/releases) 页面
 
 ---
 
-## 💬 用户交流
+## 用户交流
 
 欢迎通过以下方式反馈问题或提出建议：
 
-- **GitHub Issues**：[提交反馈](你的仓库链接/issues)（推荐，便于追踪）
-- **B站**：[你的B站账号](你的B站链接)
+- **GitHub Issues**：[提交反馈](https://github.com/kongkongo0/issues)（推荐，便于追踪）
+- **B站**：[你的B站账号](https://space.bilibili.com/59669592)
 
 ---
 
-
-👉 通过 [Issues](你的仓库链接/issues) 或邮箱联系我
-
----
-
-## ❓ 常见问题
+## 常见问题
 
 **Q：为什么不直接适配《永恒世界》，而是做通用工具？**  
 A：因为我想让**所有**文字游戏都能拥有语音的可能，只要有音频资源就可以适配，而不是只解决一款游戏。
@@ -75,11 +70,11 @@ A：目前优先支持Windows，软件通过跨平台技术开发本身支持mac
 
 - 本工具为**免费软件**，不收取任何费用
 - 使用过程中请遵守相关游戏的使用条款
-- 本软件不提供语音素材，素材可在网络平台支持
+- 本软件不提供语音素材，游戏音频素材可在各大平台寻找
 
 ---
 
-## ⭐ 支持项目
+## 支持项目
 
 如果这个工具对你有帮助，欢迎：
 - 给仓库点个 **Star** ⭐
@@ -88,4 +83,4 @@ A：目前优先支持Windows，软件通过跨平台技术开发本身支持mac
 
 ---
 
-**📢 关注本仓库，第一时间获取更新通知～**
+**关注本仓库，第一时间获取更新通知～**
