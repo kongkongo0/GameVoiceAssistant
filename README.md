@@ -3,7 +3,7 @@ voice assistant for text-based games | 纯字幕游戏秒变全语音，适配AV
 
 [![平台](https://img.shields.io/badge/平台-Windows-blue)]()
 [![状态](https://img.shields.io/badge/状态-开发中-green)]()
-[![交流](https://img.shields.io/badge/交流-B站-orange)]([B站地址](https://space.bilibili.com/59669592))
+[![交流](https://img.shields.io/badge/交流-B站-orange)](https://space.bilibili.com/59669592)
 
 > **让任何纯字幕文字游戏自动开口说话 —— 为AVG、视觉小说、互动故事匹配语音**
 
@@ -52,7 +52,7 @@ voice assistant for text-based games | 纯字幕游戏秒变全语音，适配AV
 欢迎通过以下方式反馈问题或提出建议：
 
 - **GitHub Issues**：[提交反馈](https://github.com/kongkongo0/issues)（推荐，便于追踪）
-- **B站**：[你的B站账号](https://space.bilibili.com/59669592)
+- **B站**：[B站](https://space.bilibili.com/59669592)
 
 ---
 
