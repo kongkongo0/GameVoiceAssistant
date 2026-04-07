@@ -45,19 +45,20 @@ voice assistant for text-based games | 纯字幕游戏秒变全语音，适配AV
 - 游戏使用窗口模式 / 无边框模式
 - 获取方式：
 - **站内下载**：访问 [Releases](https://github.com/kongkongo0/releases) 页面
-- **百度网盘下载**：[链接待补充]
+- **百度网盘下载**：[Releases](https://pan.baidu.com/s/1DQr3DdBXCEF5aDuI7jX6Ng?pwd=8pd5)
 > 
 #### 使用方法
 1. **选择音源**  
-   打开软件，选择已下载好的网友自制游戏音源文件。
+   打开软件，选择已下载好的网友自制游戏音源文件。<br>
+   点击下载：[永恒世界音源测试DEMO下载](https://pan.baidu.com/s/1Zn3TXMmFX02rnhdhd5OegQ?pwd=vquq)，参考软件game/demo目录放入同级即可，欢迎使用迅雷之类的国内平台分流，提供给我地址，我会在这里更新！
 
-2. **启动 OCR 服务**  
+3. **启动 OCR 服务**  
    点击启动本地 OCR 识别服务。
 
-3. **区域识别与测试**  
+4. **区域识别与测试**  
    进入游戏后，框选需要识别的画面区域，并进行测试确认。
 
-4. **开启自动播放**  
+5. **开启自动播放**  
    测试无误后，启动自动播放功能即可。
 
 
