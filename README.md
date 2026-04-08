@@ -46,7 +46,9 @@ voice assistant for text-based games | 纯字幕游戏秒变全语音，适配AV
 - 获取方式：
 - **站内下载**：访问 [Releases](https://github.com/kongkongo0/GameVoiceAssistant/releases) 页面
 - **百度网盘下载**：[Releases](https://pan.baidu.com/s/1DQr3DdBXCEF5aDuI7jX6Ng?pwd=8pd5)
-> 
+>
+> [点击观看使用教程](https://www.bilibili.com/video/BV1BwDiBsEFu)
+
 #### 使用方法
 1. **选择音源**  
    打开软件，选择已下载好的网友自制游戏音源文件。<br>
@@ -60,9 +62,6 @@ voice assistant for text-based games | 纯字幕游戏秒变全语音，适配AV
 
 5. **开启自动播放**  
    测试无误后，启动自动播放功能即可。
-
-
-
 
 ---
 
