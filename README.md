@@ -52,7 +52,7 @@ voice assistant for text-based games | 纯字幕游戏秒变全语音，适配AV
 #### 使用方法
 1. **选择音源**  
    打开软件，选择已下载好的网友自制游戏音源文件。<br>
-   点击下载：[永恒世界音源测试DEMO下载](https://pan.baidu.com/s/1Zn3TXMmFX02rnhdhd5OegQ?pwd=vquq)，参考软件game/demo目录放入同级即可，欢迎使用迅雷之类的国内平台分流，提供给我地址，我会在这里更新！
+   点击下载：[永恒世界音源测试DEMO下载](https://pan.baidu.com/s/1C3i1wTyw6uhLlDRLvkSFfg?pwd=2gde)，参考软件game/demo目录放入同级即可，欢迎使用迅雷之类的国内平台分流，提供给我地址，我会在这里更新！
 
 3. **启动 OCR 服务**  
    点击启动本地 OCR 识别服务。
