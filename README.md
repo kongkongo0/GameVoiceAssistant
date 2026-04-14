@@ -45,7 +45,7 @@ voice assistant for text-based games | 纯字幕游戏秒变全语音，适配AV
 - 游戏使用窗口模式 / 无边框模式
 - 获取方式：
 - **站内下载**：访问 [Releases](https://github.com/kongkongo0/GameVoiceAssistant/releases) 页面
-- **百度网盘下载**：[Releases](https://pan.baidu.com/s/1DQr3DdBXCEF5aDuI7jX6Ng?pwd=8pd5)
+- **百度网盘下载**：[Releases](https://pan.baidu.com/s/1ifZi2PfzoigDl67SKHfCTg?pwd=f5b5)
 >
 > [点击观看使用教程](https://www.bilibili.com/video/BV1BwDiBsEFu)
 
