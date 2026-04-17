@@ -75,7 +75,7 @@ voice assistant for text-based games | 纯字幕游戏秒变全语音，适配AV
 
 欢迎通过以下方式反馈问题或提出建议：
 
-- **GitHub Issues**：[提交反馈](https://github.com/kongkongo0/issues)（推荐，便于追踪）
+- **GitHub Issues**：[提交反馈](https://github.com/kongkongo0/GameVoiceAssistant/issues)（推荐，便于追踪）
 - **B站**：[B站](https://space.bilibili.com/59669592)
 
 ---
