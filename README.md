@@ -68,7 +68,7 @@ voice assistant for text-based games | 纯字幕游戏秒变全语音，适配AV
 ---
 
 #### 音源制作方法
-待更新
+> [点击观看音源制作教程](https://www.bilibili.com/video/BV1maQABUEqT)
 ---
 
 ## 用户交流
