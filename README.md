@@ -96,7 +96,7 @@ A：目前优先支持Windows，软件通过跨平台技术开发本身支持mac
 - 使用过程中请遵守相关游戏的使用条款
 - 本软件不提供语音素材，游戏音频素材可在各大平台寻找
 - [Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)
-- [voicebox](https://github.com/jamiepine/voicebox)
+- [Voicebox](https://github.com/jamiepine/voicebox)
 
 ---
 
