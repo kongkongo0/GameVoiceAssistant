@@ -27,8 +27,8 @@ voice assistant for text-based games | 纯字幕游戏秒变全语音，适配AV
 | 🔍 自动识别 | v1.0 | 识别游戏中的字幕文本和当前说话角色 |
 | 🔊 语音匹配 | v1.0 | 根据文字+角色自动匹配并播放语音 |
 | 🎙️ 多种音源 | v1.0 | 支持AI合成语音 / 真人录制语音包 |
-| ✨ 语音生成 | v1.1 | 支持Qwen3-TTS等多引擎本地语音合成，本地即可生成高质量配音，无需任何费用|
-| 🔗 VoiceBox联动 | v1.1 | 与VoiceBox本地语音合成工作台深度集成，实现无缝语音生成 |
+| ✨ 语音生成 | v1.1 | 支持Qwen3-TTS等多引擎本地语音合成，**本地即可生成高质量配音，无需任何费用**|
+| 🔗 VoiceBox | v1.1 | 软件联动，与VoiceBox本地语音合成工作台深度集成，实现无缝语音生成 |
 
 ---
 
@@ -43,7 +43,7 @@ voice assistant for text-based games | 纯字幕游戏秒变全语音，适配AV
 ## 下载与使用
 
 > 
-- 支持平台：Windows11，Windows10（待大量验证，欢迎反馈）
+- 支持平台：Windows11，Windows10
 - 游戏使用窗口模式 / 无边框模式
 - 获取方式：
 - **站内下载**：访问 [Releases](https://github.com/kongkongo0/GameVoiceAssistant/releases) 页面
@@ -65,6 +65,10 @@ voice assistant for text-based games | 纯字幕游戏秒变全语音，适配AV
 5. **开启自动播放**  
    测试无误后，启动自动播放功能即可。
 
+---
+
+#### 音源制作方法
+待更新
 ---
 
 ## 用户交流
