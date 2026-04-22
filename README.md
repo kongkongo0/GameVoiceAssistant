@@ -46,7 +46,7 @@ voice assistant for text-based games | 纯字幕游戏秒变全语音，适配AV
 - 支持平台：Windows11，Windows10
 - 游戏使用窗口模式 / 无边框模式
 - 获取方式：
-- **站内下载**：访问 [Releases](https://github.com/kongkongo0/GameVoiceAssistant/releases) 页面
+- **站内下载**： [Releases](https://github.com/kongkongo0/GameVoiceAssistant/releases) 
 - **百度网盘下载**：[Releases](https://pan.baidu.com/s/1ifZi2PfzoigDl67SKHfCTg?pwd=f5b5)
 - **夸克网盘下载**：[Releases](https://pan.quark.cn/s/60d456d46074)
 >
