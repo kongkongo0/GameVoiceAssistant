@@ -1,8 +1,8 @@
 {
-  "version_name": "1.0",
+  "version_name": "1.2",
   "version_code": 10,  
   "download_url": "https://xxx.com/update.exe",
-  "update_note": "修复了XXbug，增加了YY功能",
+  "update_note": "1、优化角色名匹配逻辑\n2、增加批量音频生成能力\n3、增加ffpeg支持，支持MP3音频生成，可自动消除TTS前置静音问题",
   "show_popup": true,
   "popup_message": "有新版本可用，是否前往下载？",
   "popup_type": "info"
