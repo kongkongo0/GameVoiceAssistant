@@ -27,8 +27,8 @@ voice assistant for text-based games | 纯字幕游戏秒变全语音，适配AV
 | 🔍 自动识别 | v1.0 | 识别游戏中的字幕文本和当前说话角色 |
 | 🔊 语音匹配 | v1.0 | 根据文字+角色自动匹配并播放语音 |
 | 🎙️ 多种音源 | v1.0 | 支持AI合成语音 / 真人录制语音包 |
-| ✨ 语音生成 | v1.1 | 支持Qwen3-TTS等多引擎本地语音合成，**本地即可生成高质量配音，无需任何费用**|
 | 🔗 VoiceBox | v1.1 | 软件联动，与VoiceBox本地语音合成工作台深度集成，实现无缝语音生成 |
+| ✨ 语音生成 | v1.2 | 支持Qwen3-TTS等多引擎本地语音合成，**本地即可批量生成高质量配音，无需任何费用**|
 
 ---
 
@@ -49,6 +49,7 @@ voice assistant for text-based games | 纯字幕游戏秒变全语音，适配AV
 - **站内下载**： [Releases](https://github.com/kongkongo0/GameVoiceAssistant/releases) 
 - **百度网盘下载**：[Releases](https://pan.baidu.com/s/1ifZi2PfzoigDl67SKHfCTg?pwd=f5b5)
 - **夸克网盘下载**：[Releases](https://pan.quark.cn/s/60d456d46074)
+- **迅雷网盘下载**：[Releases](https://pan.xunlei.com/s/VOr2eJ8vcIHbp4W2A7J6HHUgA1?pwd=cdh6)
 >
 > [点击观看使用教程](https://www.bilibili.com/video/BV1BwDiBsEFu)
 
@@ -68,8 +69,14 @@ voice assistant for text-based games | 纯字幕游戏秒变全语音，适配AV
 
 ---
 
-#### 音源制作方法
+#### 音源制作方法（可选）
 > [点击观看音源制作教程](https://www.bilibili.com/video/BV1maQABUEqT)
+
+辅助工具下载
+- **百度网盘下载**：[辅助工具](https://pan.baidu.com/s/13axrvM9fVKlZOsIc7ymlwQ?pwd=4hqt)
+- **夸克网盘下载**：[辅助工具](https://pan.quark.cn/s/00ca6fe7d7cb)
+- **迅雷网盘下载**：[辅助工具](https://pan.xunlei.com/s/VOr2dbma6LNI35zJHlFzOOBsA1?pwd=yg4x)
+
 ---
 
 ## 用户交流
