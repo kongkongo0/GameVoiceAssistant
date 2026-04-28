@@ -46,17 +46,17 @@ voice assistant for text-based games | 纯字幕游戏秒变全语音，适配AV
 - 支持平台：Windows11，Windows10
 - 游戏使用窗口模式 / 无边框模式
 - 获取方式：
-- **站内下载**： [Releases](https://github.com/kongkongo0/GameVoiceAssistant/releases) 
-- **百度网盘下载**：[Releases](https://pan.baidu.com/s/1ifZi2PfzoigDl67SKHfCTg?pwd=f5b5)
-- **夸克网盘下载**：[Releases](https://pan.quark.cn/s/60d456d46074)
-- **迅雷网盘下载**：[Releases](https://pan.xunlei.com/s/VOr2eJ8vcIHbp4W2A7J6HHUgA1?pwd=cdh6)
+- **站内下载**： [软件包](https://github.com/kongkongo0/GameVoiceAssistant/releases)
+- **百度网盘下载**：[软件包](https://pan.baidu.com/s/1ifZi2PfzoigDl67SKHfCTg?pwd=f5b5) 、[音源包](https://pan.baidu.com/s/1C3i1wTyw6uhLlDRLvkSFfg?pwd=2gde)
+- **夸克网盘下载**：[软件包](https://pan.quark.cn/s/60d456d46074)、[音源包](https://pan.quark.cn/s/59fd79f7acd9)：Wkcj
+- **迅雷网盘下载**：[软件包](https://pan.xunlei.com/s/VOr2eJ8vcIHbp4W2A7J6HHUgA1?pwd=cdh6)、[音源包](https://pan.xunlei.com/s/VOqpSi8jCvhz0pyxg4oNC0V3A1)：i77t
 >
 > [点击观看使用教程](https://www.bilibili.com/video/BV1BwDiBsEFu)
 
 #### 使用方法
 1. **选择音源**  
    打开软件，选择已下载好的网友自制游戏音源文件。<br>
-   点击下载[`永恒世界音源DEMO`]：[百度网盘](https://pan.baidu.com/s/1C3i1wTyw6uhLlDRLvkSFfg?pwd=2gde)，[夸克网盘](https://pan.quark.cn/s/59fd79f7acd9) 提取码：Wkcj，[迅雷网盘](https://pan.xunlei.com/s/VOqpSi8jCvhz0pyxg4oNC0V3A1) 提取码：i77t，参考软件game/demo目录放入同级即可，欢迎使用国内平台分流，提供给我地址，我会在这里更新！
+    **[音源包]** 点击下载[`永恒世界音源DEMO`]：[百度网盘](https://pan.baidu.com/s/1C3i1wTyw6uhLlDRLvkSFfg?pwd=2gde)，[夸克网盘](https://pan.quark.cn/s/59fd79f7acd9) 提取码：Wkcj，[迅雷网盘](https://pan.xunlei.com/s/VOqpSi8jCvhz0pyxg4oNC0V3A1) 提取码：i77t，参考软件game/demo目录放入同级即可，欢迎使用国内平台分流，提供给我地址，我会在这里更新！
 
 3. **启动 OCR 服务**  
    点击启动本地 OCR 识别服务。
