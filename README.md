@@ -29,7 +29,7 @@ voice assistant for text-based games | 纯字幕游戏秒变全语音，适配AV
 | 🎙️ 多种音源 | v1.0 | 支持AI合成语音 / 真人录制语音包 |
 | 🔗 VoiceBox | v1.1 | 软件联动，与VoiceBox本地语音合成工作台深度集成，实现无缝语音生成 |
 | ✨ 语音生成 | v1.2 | 支持Qwen3-TTS等多引擎本地语音合成，**本地即可批量生成高质量配音，无需任何费用**|
-
+| 🧭 语音解析 | v1.3 | **支持Ren'Py引擎游戏一键解析.rpa资源包**、RPyC反编译、.rpy字幕提取|
 ---
 
 ## 效果演示
@@ -69,9 +69,13 @@ voice assistant for text-based games | 纯字幕游戏秒变全语音，适配AV
 
 ---
 
-#### 音源制作方法（可选）
-> [点击观看音源制作教程](https://www.bilibili.com/video/BV1maQABUEqT)
+#### 音源制作方法（创作者选项）
+> [声音克隆与制作](https://www.bilibili.com/video/BV1maQABUEqT)
+> [一键导入字幕，批量生成音频](https://www.bilibili.com/video/BV1maQABUEqT)
 
+> 在[音源工坊]内,支持一键解析字幕能力，支持Ren'Py引擎游戏的.rpa资源包导入、反编译、字幕提取与批量语音生成，大幅降低音源创作门槛
+
+> 
 辅助工具下载
 - **百度网盘下载**：[辅助工具](https://pan.baidu.com/s/13axrvM9fVKlZOsIc7ymlwQ?pwd=4hqt)
 - **夸克网盘下载**：[辅助工具](https://pan.quark.cn/s/00ca6fe7d7cb)
@@ -105,6 +109,8 @@ A：目前优先支持Windows，软件通过跨平台技术开发本身支持mac
 - 本软件不提供语音素材，游戏音频素材可在各大平台寻找
 - [Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS)
 - [Voicebox](https://github.com/jamiepine/voicebox)
+- [unrpyc](https://github.com/CensoredUsername/unrpyc)
+- [rpatool](https://github.com/shizmob/rpatool)
 
 ---
 
