@@ -72,8 +72,9 @@ voice assistant for text-based games | 纯字幕游戏秒变全语音，适配AV
 ---
 
 #### 音源制作方法（创作者选项）
-> [声音克隆与制作](https://www.bilibili.com/video/BV1maQABUEqT)
-> [一键导入字幕，批量生成音频](https://www.bilibili.com/video/BV1maQABUEqT)
+> 视频教程
+- [声音克隆与制作](https://www.bilibili.com/video/BV1maQABUEqT)
+- [一键导入字幕，批量生成音频](https://www.bilibili.com/video/BV1maQABUEqT)
 
 > 在[音源工坊]内,支持一键解析字幕能力，支持Ren'Py引擎游戏的.rpa资源包导入、反编译、字幕提取与批量语音生成，大幅降低音源创作门槛
 
