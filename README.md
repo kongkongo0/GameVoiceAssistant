@@ -30,19 +30,27 @@ voice assistant for text-based games | 纯字幕游戏秒变全语音，适配AV
 | 🔗 VoiceBox | v1.1 | 软件联动，与VoiceBox本地语音合成工作台深度集成，实现无缝语音生成 |
 | ✨ 语音生成 | v1.2 | 支持Qwen3-TTS等多引擎本地语音合成，**本地即可批量生成高质量配音，无需任何费用**|
 | 🧭 字幕解析 | v1.3 | **支持Ren'Py引擎游戏一键解析.rpa资源包**、RPyC反编译、.rpy字幕提取|
+| 💬 双语字幕 | v1.4 | 计划中|
 | 💬 角色解析 | v1.4 | 计划中|
 | 💬 音源分享 | v1.5 | 计划中|
 ---
 
+
 ## 效果演示
 
-> GameVoiceAssistant × 永恒世界 试玩效果展示
+> [电脑端]GameVoiceAssistant × 永恒世界 试玩效果展示 [点击观看](https://www.bilibili.com/video/BV1re9uBbEKP)
 
-[点击观看演示视频](https://www.bilibili.com/video/BV1re9uBbEKP)
+> [手机端]GameVoiceAssistant × 手机版 APP试玩与安装教程 [点击观看](https://www.bilibili.com/video/BV12EGa6YE8Y)
+
 
 ---
+## 安卓手机粉丝版下载
+- **百度网盘下载**：[APK安装包](https://pan.baidu.com/s/1plqjNk3PREhlqjSsVQY3gg?pwd=suqj)
 
-## 下载与使用
+>  **使用方法：** 直接安装即可，不需要下载其他额外内容。
+
+
+## 电脑版下载与使用
 
 > 
 - 支持平台：Windows11，Windows10
