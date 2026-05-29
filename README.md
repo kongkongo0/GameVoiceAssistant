@@ -2,6 +2,7 @@
 voice assistant for text-based games | 纯字幕游戏秒变全语音，适配AVG/视觉小说的语音匹配工具
 
 [![平台](https://img.shields.io/badge/平台-Windows-blue)]()
+[![平台](https://img.shields.io/badge/平台-Android-brightgreen)]()
 [![状态](https://img.shields.io/badge/状态-开发中-green)]()
 [![交流](https://img.shields.io/badge/交流-B站-orange)](https://space.bilibili.com/59669592)
 
@@ -35,25 +36,27 @@ voice assistant for text-based games | 纯字幕游戏秒变全语音，适配AV
 | 💬 音源分享 | v1.5 | 计划中|
 ---
 
-
 ## 效果演示
 
-> [电脑端]GameVoiceAssistant × 永恒世界 试玩效果展示 [点击观看](https://www.bilibili.com/video/BV1re9uBbEKP)
+- [电脑端]GameVoiceAssistant × 永恒世界 试玩效果展示 [点击观看](https://www.bilibili.com/video/BV1re9uBbEKP)
 
-> [手机端]GameVoiceAssistant × 手机版 APP试玩与安装教程 [点击观看](https://www.bilibili.com/video/BV12EGa6YE8Y)
+- [手机端APP]GameVoiceAssistant × 手机版 安装教程 [点击观看](https://www.bilibili.com/video/BV12EGa6YE8Y)
+
 
 
 ---
-## 安卓手机粉丝版下载
+## 安卓手机Demo版本下载
 - **百度网盘下载**：[APK安装包](https://pan.baidu.com/s/1plqjNk3PREhlqjSsVQY3gg?pwd=suqj)
+- **迅雷网盘下载**：[APK安装包](https://pan.xunlei.com/s/VOtlNdL8LYwi-8sM5Rt0BTt7A1?pwd=tany)
 
->  **使用方法：** 直接安装即可，不需要下载其他额外内容。
+
+>  **使用方法：** 直接安装即可，不需要下载其他额外内容。 **手机版目前已完成第一章节** 
 
 
 ## 电脑版下载与使用
 
 > 
-- 支持平台：Windows11，Windows10
+- 支持平台：Windows11，Windows10,  **Android** 
 - 游戏使用窗口模式 / 无边框模式
 - 获取方式：
 - **站内下载**： [软件包](https://github.com/kongkongo0/GameVoiceAssistant/releases)
