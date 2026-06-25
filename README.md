@@ -1,5 +1,5 @@
 # GameVoiceAssistant · 游戏语音助手
-voice assistant for text-based games | 纯字幕游戏秒变全语音，适配AVG/视觉小说的语音匹配工具
+Voice your game, translate your view.| 读你所玩，译你所见。纯字幕游戏秒变全语音，实时翻译，适配AVG/视觉小说的语音匹配工具
 
 [![平台](https://img.shields.io/badge/平台-Windows-blue)]()
 [![平台](https://img.shields.io/badge/平台-Android-brightgreen)]()
@@ -8,13 +8,14 @@ voice assistant for text-based games | 纯字幕游戏秒变全语音，适配AV
 
 > **让任何纯字幕文字游戏自动开口说话 —— 为AVG、视觉小说、互动故事匹配语音**
 
+
 ---
 
 ## 简介
 
 玩文字游戏时，满屏字幕却没有语音，沉浸感大打折扣。
 
-**GameVoiceAssistant** 就是为解决这个问题而生。它通过识别游戏字幕和角色，自动匹配并播放对应的语音——可以是TTS语音/AI合成，也可以是真人录制音频，低配电脑也可以畅玩。
+**GameVoiceAssistant** 就是为解决这个问题而生。它通过识别游戏字幕和角色，自动匹配并播放对应的语音——可以是TTS语音/AI合成，也可以是真人录制音频，低配电脑也可以畅玩，同时支持游戏实时翻译，多字幕展示等能力。
 
 ✅ **完全免费 · 绿色无广告 · 持续更新**
 
@@ -45,12 +46,18 @@ voice assistant for text-based games | 纯字幕游戏秒变全语音，适配AV
 
 
 ---
-## 安卓手机Demo版本下载
+## 安卓手机下载与使用
 - **百度网盘下载**：[APK安装包](https://pan.baidu.com/s/1plqjNk3PREhlqjSsVQY3gg?pwd=suqj)
-- **迅雷网盘下载**：[APK安装包](https://pan.xunlei.com/s/VOtlNdL8LYwi-8sM5Rt0BTt7A1?pwd=tany)
+- **夸克下载**：[APK安装包](https://pan.quark.cn/s/fa132ef4545e)
 
 
->  **使用方法：** 直接安装即可，不需要下载其他额外内容。 **手机版目前已完成第一章节** 
+>  **安装说明：** 
+[安装视频地址](https://www.bilibili.com/video/BV12EGa6YE8Y/)，💡 支持安卓10及以上系统
+1. 下载APK安装包
+2. 允许“安装应用”权限（如有提示）
+3. 点击安装，等待完成
+4. 打开应用，等待数据复制（ **文件较大，约5分钟左右，切勿切换屏幕** ），授予录屏、通知权限
+5. 开始体验！
 
 
 ## 电脑版下载与使用
