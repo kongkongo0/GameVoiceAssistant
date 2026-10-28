@@ -111,7 +111,7 @@ Voice your game, translate your view.| 读你所玩，译你所见。纯字幕�
 
 - **GitHub Issues**：[提交反馈](https://github.com/kongkongo0/GameVoiceAssistant/issues)（推荐，便于追踪）
 - **B站**：[B站](https://space.bilibili.com/59669592)
-
+- **Youbube**：[Youbube](https://www.youtube.com/@kongkong-f9v)
 ---
 
 ## 常见问题
