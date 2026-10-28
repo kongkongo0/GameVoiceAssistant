@@ -1,4 +1,4 @@
-# GameVoiceAssistant · 游戏语音助手
+# GameVoiceAssistant · GVA游戏语音助手
 Voice your game, translate your view.| 读你所玩，译你所见。纯字幕游戏秒变全语音，实时翻译，适配AVG/视觉小说的语音匹配工具
 
 [![平台](https://img.shields.io/badge/平台-Windows-blue)]()
@@ -33,8 +33,9 @@ Voice your game, translate your view.| 读你所玩，译你所见。纯字幕�
 | ✨ 语音生成 | v1.2 | 支持Qwen3-TTS等多引擎本地语音合成，**本地即可批量生成高质量配音，无需任何费用**|
 | 🧭 字幕解析 | v1.3 | **支持Ren'Py引擎游戏一键解析.rpa资源包**、RPyC反编译、.rpy字幕提取|
 | 💬 双语字幕 | v1.4 | 支持各国语言字幕，支持AI翻译功能（持续优化中）|
-| 💬 角色解析 | v1.4 | 计划中|
-| 💬 音源分享 | v1.5 | 计划中|
+| 💬 双语字幕 | v1.5 | 软件多语言支持|
+| 💬 角色解析 | v1.6 | 计划中|
+| 💬 音源分享 | v1.7 | 计划中|
 ---
 
 ## 效果演示
