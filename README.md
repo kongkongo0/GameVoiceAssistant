@@ -6,8 +6,6 @@ Voice your game, translate your view.| 读你所玩，译你所见。纯字幕�
 [![状态](https://img.shields.io/badge/状态-开发中-green)]()
 [![交流](https://img.shields.io/badge/交流-B站-orange)](https://space.bilibili.com/59669592)
 
-> **让任何纯字幕文字游戏自动开口说话 —— 为AVG、视觉小说、互动故事匹配语音**
-
 
 ---
 
