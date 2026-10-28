@@ -140,6 +140,7 @@ A：目前优先支持Windows，软件通过跨平台技术开发本身支持mac
 - 给仓库点个 **Star** ⭐
 - 在 B 站 **一键三连** 支持一下
 - 推荐给需要的朋友
+- [Buy Me Coffee](https://ko-fi.com/kongkong6289)
 
 ---
 
